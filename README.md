@@ -12,3 +12,6 @@ A database of the most common semiconductor III-V , IV-IV and II-VI is provided 
 A strain model is included.
 
 => If you like it, don't forget the star!
+
+![image](https://user-images.githubusercontent.com/35040499/113291980-211a9d80-92f4-11eb-8791-eaf2ccaff510.png)
+
